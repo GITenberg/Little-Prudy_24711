@@ -1,0 +1,33 @@
+_repo: Little-Prudy_24711
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24711-h/images/cover.jpg
+creator:
+  author:
+    agent_name: May, Sophie
+    alias: Clarke, Rebecca Sophia
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '3465'
+    url: http://www.gutenberg.org/2009/agents/3465
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_Sophia_Clarke
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: Little Prudy
+url: http://www.gutenberg.org/ebooks/24711
