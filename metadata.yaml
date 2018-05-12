@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3465
     wikipedia: http://en.wikipedia.org/wiki/Rebecca_Sophia_Clarke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24711#Little-Prudy
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-02-28'
 gutenberg_type: Text
